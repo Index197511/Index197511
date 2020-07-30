@@ -1,5 +1,5 @@
 ### Index197511
 
-- Learning React, Android with Kotlin, Backend with Scala and Rust. 
-- Have a little experience Functional Programming, Object-Oriented Programming.
-- Be interested in software architecture.
+- :pencil: Learning React, Android with Kotlin, Backend with Scala and Rust. 
+- :mortar_board: Have a little experience Functional Programming, Object-Oriented Programming.
+- :art: Be interested in software architecture.
