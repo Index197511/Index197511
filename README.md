@@ -4,5 +4,5 @@
 - Back:computer:: Rust, Scala
 - Mobile:iphone:: Android with Kotlin
 - etc: Object-Oriented Programming, Functional Programming
-### Interested
-- Software architecture.
+### :thought_balloon: Interested
+- Software architecture
