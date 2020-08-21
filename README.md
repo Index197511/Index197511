@@ -1,5 +1,8 @@
-### Index197511
-
-- :pencil: Learning React, Android with Kotlin, Backend with Scala and Rust. 
-- :mortar_board: Have a little experience Functional Programming, Object-Oriented Programming.
-- :art: Be interested in software architecture.
+## Index197511
+### :mortar_board: Experience
+- Front:art:: React with Typescript, Elm
+- Back:computer:: Rust, Scala
+- Mobile:iphone:: Android with Kotlin
+- etc: Object-Oriented Programming, Functional Programming
+### Interested
+- Software architecture.
