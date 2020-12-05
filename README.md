@@ -1,4 +1,5 @@
 ## Index197511
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=index197511&count_private=true)
 ### :mortar_board: Experience
 - Frontend:art:: React with Typescript, Elm
 - Backend:computer:: Rust, Scala(just a little...)
