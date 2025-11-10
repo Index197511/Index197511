@@ -4,3 +4,6 @@
 ### :mortar_board: Experience
 - Mobile:iphone:: Android with Kotlin, iOS with Swift(a little)
 - etc: Object-Oriented Programming, Functional Programming
+
+### etc
+- https://cadc.cyberagent.co.jp/2024/sessions/abema-billing-system/
